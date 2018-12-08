@@ -1,4 +1,4 @@
-# yq-admin2
+# vue-element-admin
 
 > A Vue.js project
 
